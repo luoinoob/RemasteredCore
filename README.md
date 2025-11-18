@@ -72,9 +72,6 @@ For other methods or changing install location, check out the [FAQs](https://jax
 4. [Combilaunch](https://github.com/Jax-Core/Combilaunch) (This widget does not require you to have JaxCore installed.)
 
 
-## Help and Documentation ❔
-- If you are interested in learning more about JaxCore, its structure, or how to develop modules/widgets, please see [JaxCore's Documentation](https://jaxcore.gitbook.io/core/).
-- Join the [Core Community Discord Server](https://discord.gg/JmgehPSDD6) for more help.
 
 
 ## Credits
@@ -101,24 +98,6 @@ The following table lists out the external plugins used to make JaxCore and all 
 | [TrayIcon](https://github.com/deathcrafter/PluginTrayIcon) | [@deathcrafter](https://github.com/deathcrafter) | 
 | [SysColor](https://github.com/brianferguson/SysColor.dll) | [@brianferguson](https://github.com/brianferguson) | 
 
-The following table lists the external technologies used for JaxCore.
-| Technology | Creator | 
-| ------------- | ------------- |
-| [AutoHotkey](https://www.autohotkey.com/) | AHK Team | 
-| [RainRGB](https://forum.rainmeter.net/viewtopic.php?t=6215) | jsMorley | 
-
-<!-- START Footer.mustache -->
-
-## Need assistance?
-* Join the [CoreCommunity Discord Server](https://discord.gg/JmgehPSDD6) for help
-* or [Create an issue](https://github.com/Jax-Core/JaxCore)
-
-## Say Hi!
-* Follow me on 👨‍💻 [Github](https://github.com/EnhancedJax) and stay updated on new things that I make
-* You can also watch me on 🐦 [DeviantArt](https://www.deviantart.com/jaxoriginals) instead
-* Message me on 🗨️ [Discord](https://discord.gg/JmgehPSDD6)
-
----
 
 <p align="center">
 <i>Made with ❤️ by Jax</i>
